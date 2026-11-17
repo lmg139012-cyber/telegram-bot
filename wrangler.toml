@@ -5,7 +5,7 @@ compatibility_date = "2025-09-01"
 workers_dev = true
 
 [[kv_namespaces]]
-binding = "BOT_KV"
+binding = "ggggggggbggguuuuuuuuuuuuuuuuggggggggggvvbb"
 id = "f5ae71f6b65a431492741ccb6cdcfcbd"
 
 [assets]
